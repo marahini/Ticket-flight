@@ -97,3 +97,63 @@
 						</form>
 					</table>    <!-- end table form -->
 				</td>
+				<td width="200px">
+					<img src="hongkong.jpg" name="slide" width="700" height="450" >
+				<script type="text/javascript">
+				<!--<!--
+					var step=1
+					function slideit()
+					{
+						document.images.slide.src=eval("image" + step + ".src");
+							if(step<4)
+								step++
+							else
+								step=1
+						setTimeout("slideit()",3500)
+					}
+					slideit();
+					-->
+					</script></td></tr>  <!-- ni untuk insert gambar slideshow -->
+				
+				
+				<tr><td colspan=2 > <center> <hr color="#A0A0A0" size="3px" width="100%"></hr> <font face="Agency FB" size="6" color="red"> WIDEST NETWORK  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspLOWEST FARES ! </font> </center> </td></tr>
+				
+				<tr> <td colspan=2><table  width="100%"> 
+					<tr>
+						<td bgColor="#339999"> <font face="Forte" size="6" color="black"> KUALA LUMPUR </font> <br/> 
+						<font face="Forte" size="7" color="white"> <center> to PARIS </center>  </font>
+						<font face="Impact" size="5" color="black"> <center> FROM RM 450 </font> <br/>
+						<font face="Forte" size="5" color="black">  BOOK NOW </center> </font>
+						</td>
+						
+						<td bgColor="#339999"> <font face="Forte" size="6" color="black"> KUALA LUMPUR </font> <br/> 
+						<font face="Forte" size="7" color="white"> <center> to PERTH </center>  </font>
+						<font face="Impact" size="5" color="black"><center> FROM RM 399 </font> <br/>
+						<font face="Forte" size="5" color="black">  BOOK NOW </center> </font>
+						</td>
+						
+						<td bgColor="#339999"> <font face="Forte" size="6" color="black"> KUALA LUMPUR </font> <br/> 
+						<font face="Forte" size="7" color="white"> <center> to KOREA </center>  </font>
+						<font face="Impact" size="5" color="black"><center> FROM RM 380 </font> <br/>
+						<font face="Forte" size="5" color="black">  BOOK NOW </center> </font>
+						</td>
+					</tr>
+					
+					<tr> <td colspan=3 > <hr color="#A0A0A0" size="3px" width="100%"></hr> </td> </tr>
+					
+
+				</table> </td></tr>
+				
+				
+				<tr> <td colspan=2><table   width="100%"> <!--table 1-->
+				
+				<tr> <td colspan=3> &nbsp; </td> </tr>
+				
+				<tr><td colspan=2><font face="Forte" size="6" color="black"> Follow us on </font></td>
+					<td><font face="Forte" size="5" color="black"> Have a question </font></td>
+				</tr>
+				
+				<tr><td><table> <!--table 2-->
+						<tr><td><font face="Agency FB" size="5" color="pink"> image1 </br> image2 </td></tr>
+						</table><!--end of table 2-->
+					</td>
